@@ -30,15 +30,18 @@ jobs:
         with:
           name: retrain-report
           path: retrain_report.csv
+          overwrite: true
 
       - name: Upload HTML report
         uses: actions/upload-artifact@v4
         with:
           name: docs-report
           path: docs/report.html
+          overwrite: true
 
       - name: Upload model artifact
         uses: actions/upload-artifact@v4
         with:
           name: model
           path: model.joblib
+          overwrite: true
