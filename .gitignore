@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Data files (если большие) — оставить sample
+data/*.csv
+!data/sample_materials.csv
+!data/sample_ratings.csv
+
+# Generated files
+*.log
+retrain_report.csv
+model.joblib
+.DS_Store
