@@ -1,9 +1,9 @@
 material_id,title,description
-1,Linear Algebra Basics,Introduction to vectors, matrices and basic operations.
-2,Probability Theory,Basic probability concepts and distributions.
-3,Python for Data Science,Learn pandas and numpy for data analysis with examples.
-4,Supervised Learning,Overview of regression and classification models.
-5,Natural Language Processing,Basics of NLP: tokenization, embeddings.
-6,Advanced Linear Algebra,Eigenvalues and eigenvectors deep dive.
-7,Data Visualization,Plotting with matplotlib and seaborn for data analysis.
-8,Unsupervised Learning,Clustering and dimensionality reduction techniques.
+1,"Linear Algebra Basics","Introduction to vectors, matrices and basic operations."
+2,"Probability Theory","Basic probability concepts and distributions."
+3,"Python for Data Science","Learn pandas and numpy for data analysis with examples."
+4,"Supervised Learning","Overview of regression and classification models."
+5,"Natural Language Processing","Basics of NLP: tokenization, embeddings."
+6,"Advanced Linear Algebra","Eigenvalues and eigenvectors deep dive."
+7,"Data Visualization","Plotting with matplotlib and seaborn for data analysis."
+8,"Unsupervised Learning","Clustering and dimensionality reduction techniques."
